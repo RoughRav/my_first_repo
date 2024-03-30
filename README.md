@@ -8,3 +8,4 @@ Text added in local folder
 
 Text added in new branch, called newbranch
 
+Разрешаем конфликт
