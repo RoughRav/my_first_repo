@@ -5,3 +5,6 @@ Text added
  Добавили текст через веббраузер
 
 Text added in local folder
+
+Text added in new branch, called newbranch
+
